@@ -1,0 +1,36 @@
+.rep {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    flex-basis: 100%;
+    border: 5px solid;
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+p {
+    margin: 0;
+}
+
+.bio-section {
+    border: none;
+}
+
+.committee-section {
+    text-align: left;
+    padding: 10px;
+}
+
+.leg-section {
+    text-align: left;
+    padding: 10px;
+}
